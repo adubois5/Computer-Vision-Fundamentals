@@ -25,3 +25,4 @@ latexmkrc
 *.pkl
 *.pyc
 *.zip
+*.png
