@@ -17,6 +17,7 @@
 .*.lb
 *.bbl
 *.blg
+latexmkrc
 
 
 # Other files that don't need to be uploaded:
